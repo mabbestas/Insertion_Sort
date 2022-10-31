@@ -20,3 +20,7 @@
  * [3,7,5,8,2,9,4,15,6]    n-1
  * [3,5,7,8,2,9,4,15,6]    n-2
  * [2,3,5,7,8,9,4,15,6]    n-3
+ # Merge_Sort
+ ## [16,21,11,8,12,22] -> Merge Sort
+ ### Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+ * 
